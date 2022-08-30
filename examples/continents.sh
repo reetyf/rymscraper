@@ -1,6 +1,6 @@
 #!/bin/bash
 
-arr=(Africa Antarctica Asia Europe North America South America Oceania)
+arr=(Africa Antarctica Asia Europe NorthAmerica SouthAmerica Oceania)
 
 for continent in ${arr[@]}:
 do
